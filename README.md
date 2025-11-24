@@ -26,5 +26,4 @@ python eggcatcher.py
 <p align="center">
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/eggcatcher.gif" width=40% height=40%>
 
-## 🤖 Author
-[Leah Nguyen](https://github.com/ndleah)
+
